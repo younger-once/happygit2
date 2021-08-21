@@ -2,4 +2,6 @@
 
 I added this line in R Studio
 
-Addin one more line.
+Add in one more line.
+
+I added this line on Github.
